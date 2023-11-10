@@ -17,6 +17,6 @@ public class Point
 
 	public void afficher()
 	{
-		System.out.println("\nJe suis un point de coordonnees " + abscisse + " et " + ordonnee);
+		System.out.print("\nJe suis un point de coordonnees " + abscisse + " et " + ordonnee);
 	}
 }
